@@ -6,3 +6,5 @@ Battle on in this epic top-down shooter as you collect power-ups and reclaim you
 
 https://github.com/user-attachments/assets/64ea8db3-5f43-44ee-b4ce-9a3c47b00859
 
+
+Special thanks to the art drawn by: Treasure Cunan Acierto!
